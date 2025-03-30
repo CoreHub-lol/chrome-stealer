@@ -1,5 +1,11 @@
 # 🎮 CoreHub.lol – XScripting Executor Template
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-red.svg)
+![License](https://img.shields.io/badge/License-Educational_Use_Only-lightgrey.svg)
+![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Experimental-orange.svg)
+
 Welcome to the **XScripting Executor Template**, a powerful component of the **CoreHub.lol** ecosystem.  
 This Python-based template simulates a Roblox script executor and serves as a flexible foundation for educational purposes, security research, or experimental UI and data handling projects.
 
@@ -36,4 +42,3 @@ This Python-based template simulates a Roblox script executor and serves as a fl
 - **Required Libraries**:
   ```bash
   pip install pywin32 cryptography pillow
-  ```
