@@ -1,4 +1,4 @@
-# 🎮 CoreHub.lol – XScripting Executor Template
+# 🎮 CoreHub.lol – Executor Template
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-red.svg)
